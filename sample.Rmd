@@ -1,0 +1,10 @@
+---
+title: "Sample RMarkdown"
+output: html_document
+---
+
+```{r include = FALSE}
+hello <- "Hello, World!"
+```
+
+## Say Hello: `r hello`
