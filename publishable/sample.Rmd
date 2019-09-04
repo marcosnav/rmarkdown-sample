@@ -5,6 +5,8 @@ output: html_document
 
 ```{r include = FALSE}
 hello <- "Hello, World!"
+lorem <- "Lorem ipsum dolor sit amet"
 ```
 
 ## Say Hello: `r hello`
+`r lorem`
