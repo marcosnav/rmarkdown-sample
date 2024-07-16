@@ -1,12 +1,8 @@
 ---
-title: "Sample RMarkdown"
+title: "Simple Rmd document"
 output: html_document
 ---
 
-```{r include = FALSE}
-hello <- "Hello, World!"
-lorem <- "Lorem ipsum dolor sit amet"
-```
+# R Markdown report
 
-## Say Hello: `r hello`
-`r lorem`
+This is a very important document.
