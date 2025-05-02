@@ -5,6 +5,6 @@ output: html_document
 
 # R Markdown report
 
-## testing repo watcher rebuilds.
+## testing repo watcher rebuilds. ++
 
 This is a very important document. Edit G
